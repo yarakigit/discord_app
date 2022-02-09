@@ -36,4 +36,4 @@ $ pip install discord
 
 |Name|Explanation|
 |:-------------|:---|
-|[timer](./README.md) |期日までの残り時間を表示するbot|
+|[timer](./timer) |期日までの残り時間を表示するbot|
