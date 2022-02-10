@@ -28,7 +28,7 @@ $ pip install discord
 ---
 ## Tips
 ---
-  
+- [qita, 初心者に捧ぐDiscordのEmbed入門, @hisuie08](https://qiita.com/hisuie08/items/5b63924156080694fc81)
 
 ---
 ##  ディレクトリ
